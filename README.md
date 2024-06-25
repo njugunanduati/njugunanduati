@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm James</h1>
-<h3 align="left">A passionate Full-Stack Engineer from Kenya</h3>
+<h3 align="left">A passionate Senior Software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njugunanduati&label=Profile%20views&color=0e75b6&style=flat" alt="njugunanduati" /> </p>
 
@@ -47,7 +47,7 @@
 
 <h3 align="left">Data Visualisation:</h3>
 <p align="left"> 
-           <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>   
+           <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> </a>   
 </p>
 <h3 align="left">Testing:</h3>
 <p align="left"> 
@@ -57,7 +57,7 @@
 </p>
 <h3 align="left">Databases:</h3>
 <p align="left"> 
-           <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
+           <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a> 
            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -74,18 +74,20 @@
            <a href="https://pm2.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pm2io/pm2io-icon.svg" alt="pm2" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Automation:</h3>
-<p align="left"><a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="left">
+           <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
+</p>
 
 <h3 align="left">Stats:</h3>
 <div>
-           <p align="left">
-                      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njugunanduati&" alt="njugunanduati" />
+           <p style="width: 30%" align="left">
+                      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=njugunanduati&show_icons=true&locale=en&layout=compact" alt="njugunanduati" />
            </p>
-           <p align="left">
-                      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njugunanduati&show_icons=true&locale=en&layout=compact" alt="njugunanduati" />
+           <p style="width: 30%" align="left">
+                      <img src="https://github-readme-stats.vercel.app/api?username=njugunanduati&show_icons=true&locale=en" alt="njugunanduati" />
            </p>
-           <p align="left">
-                      <img align="center" src="https://github-readme-stats.vercel.app/api?username=njugunanduati&show_icons=true&locale=en" alt="njugunanduati" />
+           <p style="width: 30%" align="left">
+                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=njugunanduati&" alt="njugunanduati" />
            </p>
 </div>
 
