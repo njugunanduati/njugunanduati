@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamesnduati" target="blank"><img src="https://img.shields.io/twitter/follow/jamesnduati?logo=twitter&style=for-the-badge" alt="jamesnduati" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS, Tailwind CSS, Fast Api and Cyber Security**
+- 🌱 I’m currently learning **C++, Python and Cyber Security**
 
 - 💬 Ask me about <a href="https://github.com/njugunanduati/njugunanduati/issues"><b>here</b></a>
 
