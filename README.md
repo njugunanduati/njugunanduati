@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamesnduati" target="blank"><img src="https://img.shields.io/twitter/follow/jamesnduati?logo=twitter&style=for-the-badge" alt="jamesnduati" /></a> </p>
 
-- 🌱 I’m currently looking at ways **AI** can simplify regulatory and operational tasks for organizations.
+- 🌱 I’m currently looking at ways **AI** can simplify regulatory and operational tasks for organizations. I am also looking into Healthcare IT.
 
 - 💬 Ask me about <a href="https://github.com/njugunanduati/njugunanduati/issues"><b>here</b></a>
 
