@@ -45,7 +45,7 @@ I’m now combining that experience with my engineering background to build a ca
 ## 💼 Recent Projects
 
 ### 🔹 ResiTrails Platform  
-React + Spring Boot platform for accessibility verification at resorts.  
+React + Python platform for accessibility verification at resorts.  
 - Authentication, RBAC, reusable UI components, accessibility‑focused UX.
 
 ### 🔹 Profit Acceleration Simulator  
